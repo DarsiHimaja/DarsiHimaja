@@ -5,7 +5,7 @@
 
 <!-- Single-line Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=28&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer+💻+Frontend+Developer+🎨+Machine+Learning+Enthusiast+🤖"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=28&color=00E5FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer+💻;Web+Developer+🌐;Machine+Learning+Enthusiast+🤖"/>
 </p>
 
 ---
@@ -23,108 +23,70 @@ Check out my profiles here:
 
 ## 🌈 Tech Stack & Skills
 **Languages:** Python | Java | C++ | C | JavaScript  
-**CS Fundamentals:** DSA (Trees, Graphs, DP) | OOP | OS | DBMS | Complexity Analysis  
+**CS Fundamentals:** DSA | OOP | OS | DBMS | Complexity Analysis  
 **Web Development:** HTML | CSS | React | Node.js  
 **Databases:** MySQL | MongoDB  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
+<div align="center">
 
-<!-- Heart Disease Prediction -->
-<div align="center" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.2); padding:15px; width:300px; transition:0.3s;">
-  <h3>❤️ Heart Disease Prediction</h3>
-  <p>ML classification model predicting heart disease risk.</p>
-  <a href="https://github.com/DarsiHimaja/Heart-Disease-Prediction" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <a href="https://heart-disease-prediction-weld.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-View-ff69b4?style=for-the-badge"/>
-  </a>
-</div>
+### ❤️ Heart Disease Prediction
+*ML classification model predicting heart disease risk using advanced algorithms*
 
-<!-- HR Front -->
-<div align="center" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.2); padding:15px; width:300px; transition:0.3s;">
-  <h3>🧑‍💼 HR Front</h3>
-  <p>Frontend UI for HR operations.</p>
-  <a href="https://github.com/DarsiHimaja/HR_Front" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <a href="https://hr-front2.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-View-ff69b4?style=for-the-badge"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/Heart-Disease-Prediction)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://heart-disease-prediction-weld.vercel.app/)
 
-<!-- Flight Booking -->
-<div align="center" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.2); padding:15px; width:300px; transition:0.3s;">
-  <h3>✈️ Flight Booking</h3>
-  <p>Interactive flight booking UI using JavaScript.</p>
-  <a href="https://github.com/DarsiHimaja/flightbooking" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <a href="https://airway-iota.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-View-ff69b4?style=for-the-badge"/>
-  </a>
-</div>
+---
 
-<!-- Sarcasm Detection -->
-<div align="center" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.2); padding:15px; width:300px; transition:0.3s;">
-  <h3>😂 Sarcasm Detection</h3>
-  <p>ML + NLP project detecting sarcastic comments.</p>
-  <a href="https://github.com/DarsiHimaja/Sarcasm_detection" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <a href="https://sarcasm-detection-zipo.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-View-ff69b4?style=for-the-badge"/>
-  </a>
-</div>
+### 🧑‍💼 HR Portal - Candidate Match
+*Modern frontend UI for HR operations with responsive design*
 
-<!-- Daily Expense Tracker -->
-<div align="center" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.2); padding:15px; width:300px; transition:0.3s;">
-  <h3>💰 Daily Expense Tracker</h3>
-  <p>Track expenses with analytics, dark mode & charts.</p>
-  <a href="https://github.com/DarsiHimaja/Daily-Expense-Tracker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <a href="https://daily-expense-tracker-beryl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-View-ff69b4?style=for-the-badge"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/HR_Front)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://hr-front2.vercel.app/)
 
-<!-- Music Player -->
-<div align="center" style="border-radius:15px; box-shadow:0 10px 25px rgba(0,0,0,0.2); padding:15px; width:300px; transition:0.3s;">
-  <h3>🎵 Music Player</h3>
-  <p>Dart-based responsive music player app.</p>
-  <a href="https://github.com/DarsiHimaja/Music-Player" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <a href="https://musify-liart.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-View-ff69b4?style=for-the-badge"/>
-  </a>
-</div>
+---
+
+### ✈️ Flight Booking System
+*Interactive flight booking platform with modern UI/UX*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/flightbooking)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://airway-iota.vercel.app/)
+
+---
+
+### 😂 Sarcasm Detection
+*NLP-powered ML project for detecting sarcastic comments*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/Sarcasm_detection)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://sarcasm-detection-zipo.onrender.com/)
+
+---
+
+### 💰 Daily Expense Tracker
+*Feature-rich expense tracker with analytics, dark mode & charts*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/Daily-Expense-Tracker)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://daily-expense-tracker-beryl.vercel.app/)
+
+---
+
+### 🎵 Music Player
+*Responsive music player application built with modern web technologies*
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/Music-Player)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://musify-liart.vercel.app/)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Prizes
-- Participated in **Amazon ML Challenge** – scored 53%  
-- Actively contributing to open-source & personal projects  
-
----
-
-## 📊 GitHub Contributions
-<p align="center">
-  <img src="https://ghchart.rshah.org/Himaja30" alt="Himaja's GitHub chart"/>
-</p>
+## 🏆 Achievements & Recognition
+- 🎯 Participated in **Amazon ML Challenge** – achieved 53% accuracy
+- 🚀 Actively contributing to open-source projects and building innovative solutions
+- 💡 Passionate about solving real-world problems through technology
 
 ---
 
@@ -137,3 +99,5 @@ Check out my profiles here:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
+
+---
