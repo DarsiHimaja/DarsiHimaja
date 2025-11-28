@@ -42,7 +42,7 @@ Check out my profiles here:
 ---
 
 ### 🧑‍💼 HR Portal - Candidate Match
-*Modern frontend UI for HR operations with responsive design*
+*End-to-end HR system for evaluating and matching candidates*
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/HR_Front)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://hr-front2.vercel.app/)
