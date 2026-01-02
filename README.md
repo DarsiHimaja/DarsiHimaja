@@ -71,20 +71,12 @@ Check out my profiles here:
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/Daily-Expense-Tracker)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://daily-expense-tracker-beryl.vercel.app/)
 
----
-
-### 🎵 Music Player
-*Responsive music player application built with modern web technologies*
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/DarsiHimaja/Music-Player)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-ff69b4?style=for-the-badge)](https://musify-liart.vercel.app/)
-
 </div>
 
 ---
 
 ## 🏆 Achievements & Recognition
-- 🎯 Participated in **Amazon ML Challenge** – achieved 53% accuracy
+- 🎯 Participated in **Amazon ML Challenge** – achieved 53% SMPAE Score
 - 🚀 Actively contributing to open-source projects and building innovative solutions
 - 💡 Passionate about solving real-world problems through technology
 
